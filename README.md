@@ -1,1 +1,4 @@
 # VRDev
+---
+permalink: /index.html
+---
