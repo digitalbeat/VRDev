@@ -1,4 +1,0 @@
-# VRDev
----
-permalink: /index.html
----
